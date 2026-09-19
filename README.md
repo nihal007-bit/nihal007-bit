@@ -7,7 +7,7 @@ CSE Undergrad at Manipal Institute of Technology.
 - **Languages:** Python, SQL, C
 - **Data Science & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Feature Engineering, Model Evaluation
 - **Visualization & BI:** Power BI, Plotly, Matplotlib, Seaborn
-- **Tools & Platforms:** Git, GitHub, PostgreSQL, Jupyter Notebook, VS Code, Streamlit, REST APIs
+- **Tools & Platforms:** Git, GitHub, PostgreSQL,mySQL, Jupyter Notebook, VS Code, Streamlit, REST APIs
 
 <hr>
 
