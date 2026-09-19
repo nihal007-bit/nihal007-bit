@@ -1,10 +1,5 @@
-# 👋
-
-I'm Nihal, a Computer Science (Data Science) student at Manipal Institute of Technology, Bangalore.
-
-I build data pipelines, ML models, and dashboards that turn raw numbers into decisions people can trust.
-
-<hr>
+CSE Undergrad at Manipal Institute of Technology.
+Turning data into cool stuff
 
 ## Tools & Tech
 
