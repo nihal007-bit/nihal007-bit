@@ -1,4 +1,4 @@
-# Hey there 👋
+# 👋
 
 I'm Nihal, a Computer Science (Data Science) student at Manipal Institute of Technology, Bangalore.
 
