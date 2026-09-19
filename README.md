@@ -2,7 +2,7 @@
 
 I'm Nihal, a Computer Science (Data Science) student at Manipal Institute of Technology, Bangalore.
 
-I'm an aspiring Data Scientist with a strong interest in Data Analytics, Machine Learning, and Business Intelligence. I like turning raw data into dashboards, models, and insights that actually answer a question.
+I turn messy data into clear, decision-ready insights — through dashboards, predictive models, and the analysis in between.
 
 <hr>
 
