@@ -2,7 +2,7 @@
 
 I'm Nihal, a Computer Science (Data Science) student at Manipal Institute of Technology, Bangalore.
 
-I turn messy data into clear, decision-ready insights — through dashboards, predictive models, and the analysis in between.
+I build data pipelines, ML models, and dashboards that help people make better decisions, faster.
 
 <hr>
 
