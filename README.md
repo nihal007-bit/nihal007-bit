@@ -8,7 +8,7 @@ I'm an aspiring Data Scientist with a strong interest in Data Analytics, Machine
 
 ## Tools & Tech
 
-- **Languages:** Python, SQL, C, Java
+- **Languages:** Python, SQL, C
 - **Data Science & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Feature Engineering, Model Evaluation
 - **Visualization & BI:** Power BI, Plotly, Matplotlib, Seaborn
 - **Tools & Platforms:** Git, GitHub, PostgreSQL, Jupyter Notebook, VS Code, Streamlit, REST APIs
