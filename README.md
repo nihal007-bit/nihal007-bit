@@ -1,6 +1,6 @@
 ## Myself
 CSE Undergrad at Manipal Institute of Technology.
-Turning data into cool stuff
+Turning data into cool stuff that makes sense
 
 ## Tools & Tech
 
