@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/4%20Projects-Delivered-1e3a5f?style=for-the-badge&logo=checkmarx&logoColor=38bdf8&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/5%20Projects-Delivered-1e3a5f?style=for-the-badge&logo=checkmarx&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/104%20Matches-Analysed-1e3a5f?style=for-the-badge&logo=databricks&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
@@ -46,7 +46,7 @@
 
 <br/>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn&theme=dark&perline=7"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,js,react,fastapi,mysql,postgres,git,github,vscode,sklearn&theme=dark&perline=10"/></a>
 
 <br/><br/>
 
@@ -61,6 +61,10 @@
 <img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Jupyter-0f172a?style=flat-square&logo=jupyter&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Chart.js-0f172a?style=flat-square&logo=chartdotjs&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=38bdf8"/>
 
 </div>
 
@@ -72,7 +76,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=beyond-the-scoreline+%E2%80%94+fifa-world-cup-2026;retail-business-analytics+%E2%80%94+customer+behaviour;banking-business-intelligence-analysis;loan-approval-prediction+%E2%80%94+credit-risk-ml" alt="Projects cycling"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=datapulse+%E2%80%94+full-stack+finance+analytics;beyond-the-scoreline+%E2%80%94+fifa-world-cup-2026;retail-business-analytics+%E2%80%94+customer+behaviour;banking-business-intelligence-analysis;loan-approval-prediction+%E2%80%94+credit-risk-ml" alt="Projects cycling"/>
 
 </div>
 
@@ -81,12 +85,13 @@
 ```bash
 $ cat stack.txt
 
-Language    │  Python (Pandas, NumPy, Scikit-learn) · SQL · C
+Language    │  Python (Pandas, NumPy, Scikit-learn) · SQL · C · JavaScript
 BI Tools    │  Power BI · Plotly · Matplotlib · Seaborn
 Databases   │  PostgreSQL
 AI / ML     │  Logistic Regression · XGBoost · Decision Tree · Random Forest
             │  Feature Engineering · EDA · Model Evaluation
-Data Apps   │  Streamlit · REST APIs
+Full Stack  │  React · FastAPI · Chart.js · REST APIs
+Data Apps   │  Streamlit
 Other       │  Git · GitHub · Jupyter Notebook · VS Code
 
 $ cat education.txt
