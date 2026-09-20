@@ -109,10 +109,6 @@ Open to internships and collaboration
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nihal007-bit&theme=onestar&no-frame=true&column=6&margin-w=8&margin-h=8&no-bg=true" width="90%"/>
-
-<br/><br/>
-
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=nihal007-bit.nihal007-bit&left_color=0f172a&right_color=1e3a5f&left_text=Profile%20Views&labelColor=38bdf8)
 
 <br/><br/>
