@@ -100,9 +100,6 @@ $ cat education.txt
 Degree      │  B.Tech CSE (Data Science)
 Institute   │  Manipal Institute of Technology, Bangalore
 Graduation  │  2027
-
-$ echo "Open to internships and collaboration"
-Open to internships and collaboration
 ```
 
 <br/>
