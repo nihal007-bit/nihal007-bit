@@ -78,34 +78,6 @@
 
 <div align="center">
 
-**`─────────────────── FULL STACK ───────────────────`**
-
-</div>
-
-<br/>
-
-```bash
-$ cat stack.txt
-
-Language    │  Python (Pandas, NumPy, Scikit-learn) · SQL · C
-BI Tools    │  Power BI · Plotly · Matplotlib · Seaborn
-Databases   │  PostgreSQL
-AI / ML     │  Logistic Regression · XGBoost · Decision Tree · Random Forest
-            │  Feature Engineering · EDA · Model Evaluation
-Data Apps   │  Streamlit · REST APIs
-Other       │  Git · GitHub · Jupyter Notebook · VS Code
-
-$ cat education.txt
-
-Degree      │  B.Tech CSE (Data Science)
-Institute   │  Manipal Institute of Technology, Bangalore
-Graduation  │  2027
-```
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0f172a&height=80&section=footer&text=Build.%20Analyze.%20Predict.&fontSize=18&fontColor=38bdf8&fontAlignY=50&desc=nihalmuhammad007%40gmail.com%20%20%7C%20%20Open%20to%20Opportunities&descSize=12&descColor=64748b&descAlignY=75" width="100%"/>
 
 </div>
