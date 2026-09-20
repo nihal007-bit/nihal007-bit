@@ -78,6 +78,8 @@
 
 <div align="center">
 
+**`─────────────────── FULL STACK ───────────────────`**
+
 </div>
 
 <br/>
@@ -93,11 +95,15 @@ AI / ML     │  Logistic Regression · XGBoost · Decision Tree · Random Fores
 Data Apps   │  Streamlit · REST APIs
 Other       │  Git · GitHub · Jupyter Notebook · VS Code
 
-$ education.txt
+$ cat education.txt
 
 Degree      │  B.Tech CSE (Data Science)
 Institute   │  Manipal Institute of Technology, Bangalore
 Graduation  │  2027
+
+$ echo "Open to internships and collaboration"
+Open to internships and collaboration
+```
 
 <br/>
 
