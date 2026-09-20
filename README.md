@@ -106,10 +106,6 @@ Graduation  │  2027
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=nihal007-bit.nihal007-bit&left_color=0f172a&right_color=1e3a5f&left_text=Profile%20Views&labelColor=38bdf8)
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0f172a&height=80&section=footer&text=Build.%20Analyze.%20Predict.&fontSize=18&fontColor=38bdf8&fontAlignY=50&desc=nihalmuhammad007%40gmail.com%20%20%7C%20%20Open%20to%20Opportunities&descSize=12&descColor=64748b&descAlignY=75" width="100%"/>
 
 </div>
