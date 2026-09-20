@@ -46,7 +46,7 @@
 
 <br/>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,js,react,fastapi,mysql,postgres,git,github,vscode,sklearn&theme=dark&perline=10"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,react,fastapi,mysql,postgres,git,github,vscode,sklearn&theme=dark&perline=10"/></a>
 
 <br/><br/>
 
@@ -64,7 +64,6 @@
 <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Chart.js-0f172a?style=flat-square&logo=chartdotjs&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=38bdf8"/>
 
 </div>
 
@@ -85,7 +84,7 @@
 ```bash
 $ cat stack.txt
 
-Language    │  Python (Pandas, NumPy, Scikit-learn) · SQL · C · JavaScript
+Language    │  Python (Pandas, NumPy, Scikit-learn) · SQL · C
 BI Tools    │  Power BI · Plotly · Matplotlib · Seaborn
 Databases   │  PostgreSQL
 AI / ML     │  Logistic Regression · XGBoost · Decision Tree · Random Forest
