@@ -34,7 +34,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/81.2%25-Prediction%20Accuracy-1e3a5f?style=for-the-badge&logo=target&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/3%2C900%2B%20Records-Analysed-1e3a5f?style=for-the-badge&logo=lightning&logoColor=38bdf8&labelColor=0f172a"/>
 
 </div>
 
